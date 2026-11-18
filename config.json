@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "patchName": "PUBG Flash Patch",
+  "fileName": "game_patch_4.7.0.21756.pak",
+  "fileNameUpdate": "PUBG Flash Updated Patch v1.0",
+  "downloadURL": "https://raw.githubusercontent.com/OmkarJ96k/EvoFile/main/PUBG-FLASH/game_patch_4.7.0.21756.pak",
+  "targetBundleID": "com.tencent.igfit",
+  "targetPath": "Documents/ShadowTrackerExtra/Saved/Paks/puffer_temp/"
+}
